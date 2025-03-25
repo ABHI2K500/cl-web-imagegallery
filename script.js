@@ -1,5 +1,3 @@
-Try AI directly in your favourite apps … Use Gemini to generate drafts and refine content, plus get Gemini Advanced with access to Google's next-gen AI for ₹1,950.00 ₹0 for 1 month
-// Sample image data
 const images = [
     {
         id: 1,
